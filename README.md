@@ -8,4 +8,4 @@ Projet terminale de I2D
 2021-2022
 
 Réalisé par :
-*Barneo Bryan
+Barneo Bryan
