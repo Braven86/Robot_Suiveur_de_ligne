@@ -8,5 +8,9 @@ Lycée Pablo Picasso
 Projet terminale de I2D
 2021-2022
 
-Réalisé par :
+Robot construit par:
 Barneo Bryan
+
+Programme Réalisé par :
+Barneo Bryan
+Baudelet Tom
